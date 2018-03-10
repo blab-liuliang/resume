@@ -49,7 +49,7 @@
 5.熟悉 AR VR 开发及原理  
 6.对商业及开源引擎如 godot klayge ogre unreal unity cryengine unigine有不同层度的了解。   
 7.熟悉 recast physx havok bullet live2d freetype freeimage theoraplayer lightmass beast fmod spine live2d dragon bone pugixml等第三方库的接入与使用   
-8.对 opengles opengl directx9 directx11 metal vulkan有不同程度了解，长远来说我只看好opengles3.0（兼容）与vulkan(未来)   
+8.对 opengles opengl directx9 directx11 metal vulkan有不同程度了解，长远来说更看好opengles3.0（兼容）与vulkan(未来)   
 9.熟悉shadow map postprocess deferred rendering global illumination pbr等常规渲染算法   
 10.熟悉蒙皮骨骼动画的原理与实现，熟悉导出插件开发，fbx格式转换。   
 11.精通以lightmass为基础的光照图生成与定制，对englighten beast有了解  
