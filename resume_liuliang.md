@@ -41,13 +41,13 @@
 
 ## 专业技能
 
-**游戏引擎研发方向（精通）**  
+**1.游戏引擎研发方向（精通）**  
 1.长期从事跨平台引擎研发，熟练掌握 c c++ lua ojbective-c java python 等开发语言    
 2.熟练使用 cmake scons visual studio, xcode android studio 等工具进行项目组织管理。   
 3.熟练使用 xcode vs nvidia nsight perfhud gldebugger 对游戏进行分析与优化  
 4.熟悉 windows mac linux(ubuntu,centos) android ios等操作系统  
 5.熟悉 AR VR 开发及原理  
-6.对商业及开源引擎如 godot klayge ogre unreal unity cryengine unigine有不同层度的了解。
+6.对商业及开源引擎如 godot klayge ogre unreal unity cryengine unigine有不同层度的了解。   
 7.熟悉 recast physx havok bullet live2d freetype freeimage theoraplayer lightmass beast fmod spine live2d dragon bone pugixml等第三方库的接入与使用   
 8.对 opengles opengl directx9 directx11 metal vulkan有不同程度了解，长远来说我只看好opengles3.0（兼容）与vulkan(未来)   
 9.熟悉shadow map postprocess deferred rendering global illumination pbr等常规渲染算法   
@@ -57,13 +57,13 @@
 13.熟悉物理引擎,理解 刚体，软体，约束，触发器，载具系统 布料动画(质点弹簧系统)的使用    
 14.精通基于recast寻路系统 Navigation mesh, navigation volume, Navigation Point    
 15.熟悉behavior tree    
-16.熟练使用Qt进行编辑器开发，了解mfc wxwidget nana electron winform 等界面库的使用。
+16.熟练使用Qt进行编辑器开发，了解mfc wxwidget nana electron winform 等界面库的使用
 
-**.视频处理（精通）**    
+**2.视频处理（精通）**    
 1.熟悉视频格式基本概念   
 2.熟悉 ffmpeg theoraplayer libde265 ijkplayer等视频解码库   
-3.熟悉 mp4 hevc vp8 vp9 主流及下一代视频格式软解码，
-4.了解视频压缩的常见算法及原理。   
+3.熟悉 mp4 hevc vp8 vp9 主流及下一代视频格式软解码，   
+4.了解视频压缩的常见算法及原理。    
 5.对于超低延迟视频直播技术有一定研究(100ms左右)，远优于webrtc, rtmp,rtsp等方案。
 
 **3.服务器（熟悉）**  
@@ -76,8 +76,8 @@ _（网络通信+通信协议+数据存储+表配置系统+日志系统）_
 6.熟悉postgresql mysql leveldb等关系型及NoSQL数据库   
 
 
-**4.智能硬件（熟悉)**
-1.熟悉arduino Raspberry 开发板
+**4.智能硬件（熟悉)**   
+1.熟悉arduino Raspberry 开发板   
 2.了解如何使用 eagle Altium designer 进行PCB制作   
 3.熟悉常见传感器的接入开发（蓝牙模块，wifi模块，烟雾传感器，距离传感器等等）
 
@@ -98,4 +98,4 @@ _（网络通信+通信协议+数据存储+表配置系统+日志系统）_
 
 
 ## 自我评价
-爱好广泛，学习能力强，认真负责，坚毅不拔，乐于团队工作。喜欢从事有挑战性的任务。
+爱好广泛，学习能力强，认真负责，坚毅不拔，乐于团队工作，喜欢从事有挑战性的任务。
