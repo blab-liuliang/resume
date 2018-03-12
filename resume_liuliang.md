@@ -8,8 +8,8 @@
 邮箱：qq79402005@gmail.com  
 
 ## 求职意向
-1.**游戏引擎研发**  
-2.人工智能与大数据相关  
+1.**人工智能**   
+2.**游戏引擎研发**  
 3.服务器开发   
 4.客户端开发     
 
@@ -43,9 +43,9 @@
 
 **1.游戏引擎研发方向（精通）**  
 1.长期从事跨平台引擎研发，熟练掌握 c c++ lua ojbective-c java python 等开发语言    
-2.熟练使用 cmake scons visual studio, xcode android studio 等工具进行项目组织管理。   
+2.熟练使用 cmake scons visual studio, xcode android studio emscripten 等工具进行项目组织管理。   
 3.熟练使用 xcode vs nvidia nsight perfhud gldebugger 对游戏进行分析与优化  
-4.熟悉 windows mac linux(ubuntu,centos) android ios等操作系统  
+4.熟悉 windows mac linux(ubuntu,centos) android ios html5等操作系统或平台  
 5.熟悉 AR VR 开发及原理  
 6.对商业及开源引擎如 godot klayge ogre unreal unity cryengine unigine有不同层度的了解。   
 7.熟悉 recast physx havok bullet live2d freetype freeimage theoraplayer lightmass beast fmod spine live2d dragon bone pugixml等第三方库的接入与使用   
