@@ -3,15 +3,15 @@
 ## 基本信息
 姓名：刘亮   
 性别：男   
-年龄：29.8  
+年龄：29  
 手机：18926488029  
 邮箱：qq79402005@gmail.com  
 
 ## 求职意向
-1.**人工智能**   
-2.**游戏引擎研发**  
-3.服务器开发   
-4.客户端开发     
+1.**游戏引擎研发**  
+2.服务器开发   
+3.客户端开发     
+4.人工智能   
 
 ## 教育经历
 学历：本科  
@@ -59,14 +59,15 @@
 15.熟悉behavior tree    
 16.熟练使用Qt进行编辑器开发，了解mfc wxwidget nana electron winform 等界面库的使用
 
-**2.视频处理（精通）**    
+## 辅助技能
+**1.视频处理（精通）**    
 1.熟悉视频格式基本概念   
 2.熟悉 ffmpeg theoraplayer libde265 ijkplayer等视频解码库   
 3.熟悉 mp4 hevc vp8 vp9 主流及下一代视频格式软解码，   
 4.了解视频压缩的常见算法及原理。    
 5.对于超低延迟视频直播技术有一定研究(100ms左右)，远优于webrtc, rtmp,rtsp等方案。
 
-**3.服务器（熟悉）**  
+**2.服务器（熟悉）**  
 _（网络通信+通信协议+数据存储+表配置系统+日志系统）_   
 1.熟悉基于java服务器开发，熟悉eclipse Intellijence使用   
 2.熟悉centos命令行，ssh远程操作与维护，基于fabric进行批量操作   
@@ -76,26 +77,28 @@ _（网络通信+通信协议+数据存储+表配置系统+日志系统）_
 6.熟悉postgresql mysql leveldb等关系型及NoSQL数据库   
 
 
-**4.智能硬件（熟悉)**   
+**3.智能硬件（熟悉)**   
 1.熟悉arduino Raspberry 开发板   
 2.了解如何使用 eagle Altium designer 进行PCB制作   
 3.熟悉常见传感器的接入开发（蓝牙模块，wifi模块，烟雾传感器，距离传感器等等）
 
-**5.应用开发（熟悉）**  
+**4.应用开发（熟悉）**  
 1.熟悉electron react-native 开发框架   
 2.了解微信小程序小游戏开发原理与设计思路   
 
-**6.网站制作（熟悉）**   
+**5.网站制作（熟悉）**   
 1.熟悉spring framework，flask, bootstrap 等开发框架  
 2.熟悉javascript html css等前端开发语言   
 3.熟悉nginx tomcat等服务器的搭建配置维护
 
-**7.人工智能（了解）**  
+**6.人工智能（了解）**  
 1.熟悉python开发语言   
-2.了解监督学习，无监督学习，分类，回归，CNN, 等基本概念   
+2.了解监督学习，无监督学习，分类，回归，back propgation，DNN,CNN,RNN,过拟合 等基本概念   
 3.可以使用tensoflow 最上层代码进行一些简单的开发工作   
-4.
+
+简单说:刚学习完<<[Google Machine Learning Crash Course]("https://developers.google.com/machine-learning/crash-course/ml-intro")>>课程，正在学习tensorflow的官方文档及教程。
+
 
 
 ## 自我评价
-爱好广泛，学习能力强，认真负责，坚毅不拔，乐于团队工作，喜欢从事有挑战性的任务。
+爱好广泛，学习能力强，认真负责，坚毅不拔，乐于团队工作，愿意从事有挑战性的任务。
