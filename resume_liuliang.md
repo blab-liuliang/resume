@@ -99,7 +99,7 @@ _（网络通信+通信协议+数据存储+表配置系统+日志系统）_
 2.了解监督学习，无监督学习，分类，回归，back propgation，DNN,CNN,RNN,过拟合 等基本概念   
 3.可以使用tensoflow 最上层代码进行一些简单的开发工作   
 
-简单说:刚学习完<<[Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)>>课程，正在学习tensorflow的官方文档及教程。
+简单说:刚学习完<<[Google Machine Learning Crash Course (Need VPN)](https://developers.google.com/machine-learning/crash-course/ml-intro)>>课程，正在学习tensorflow的官方文档及教程。
 
 
 
