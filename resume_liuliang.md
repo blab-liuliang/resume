@@ -6,6 +6,9 @@
 年龄：29  
 手机：18926488029  
 邮箱：qq79402005@gmail.com  
+微信：79402005  
+
+![](https://github.com/blab-liuliang/resume/blob/master/wechat.jpeg?raw=true)
 
 ## 求职意向
 1.**游戏引擎研发**  
