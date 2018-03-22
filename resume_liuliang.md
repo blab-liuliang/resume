@@ -60,7 +60,7 @@
 13.熟悉物理引擎,理解 刚体，软体，约束，触发器，载具系统 布料动画(质点弹簧系统)的使用    
 14.精通基于recast寻路系统 Navigation mesh, navigation volume, Navigation Point    
 15.熟悉 状态机，行为树，A*原理及实现    
-16.熟练使用Qt进行编辑器开发，了解mfc wxwidget nana electron winform 等界面库的使用
+16.熟练使用Qt进行编辑器开发，了解mfc wxwidget nana electron winform 等界面库的使用   
 17.熟悉 grid, quadtree,octree, bsp场景管理算法
 
 ## 辅助技能
