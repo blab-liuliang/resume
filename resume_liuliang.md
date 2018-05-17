@@ -109,7 +109,7 @@ _（网络通信+通信协议+数据存储+表配置系统+日志系统）_
 
 
 ## 自我评价  
-    认真负责，乖巧听话，服从团队核心利益。  
+    认真负责，踏实肯干，服从团队核心利益。  
 
 ## Next  
 ![](https://github.com/blab-liuliang/echo-doc/blob/master/intro/image/echo.png?raw=true)  
