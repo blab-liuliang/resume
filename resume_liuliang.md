@@ -40,7 +40,7 @@
 时间：引擎部技术负责人  
 参与项目  
     《暗黑黎明2》《永恒之歌》《拳皇世界》《待魂》 - 引擎编辑器使用Qt重新搭建、 Physx库源码接入与应用、材质系统搭建实现、metal库接入实现、live2d spine库接入、游戏内视频播放维护，剧情编辑器维护、基于Jenkins的引擎版本系统、基于gltf标准的pbrMetalicRoughness材质实现、Exponential Shadow Map、luaBinder库实现、通用分页系统支持。  
-    《TPS》 - havok库源码接入与应用。  
+    《TPS》 - havok库源码接入与应用。  
     《娃娃达人》 - 视频中转服务器搭建、实时视频流上传、mpeg1Video hevc格式实时解码、树莓派远程控制娃娃机、ProtocoBuf支持。  
 
 ## 基础技能
