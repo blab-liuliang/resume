@@ -72,12 +72,15 @@
 16.熟悉UE4编辑器开发相关知识。
 17.了解程序化内容生成的相关知识，参于开发实现了 基于Houdini与Ue4的程序化内容生成管线。  
 
-## 程序化内容生成
+## 程序化内容生成 (腾讯内网可见)
 https://km.woa.com/group/29321/articles/show/448927
-## 数据流编程实现材质编辑器
+目前共支持 地形、河流、湖泊、公路、土路、建筑、公园、栅栏、岩石、峭壁、植被等十多种工具。
+
+
+## 数据流编程实现材质编辑器(腾讯内网可见)
 https://km.woa.com/articles/show/460485   
 https://km.woa.com/group/15716/articles/show/429153   
-![](http://km.oa.com/files/photos/pictures/202007/1593763781_60_w640_h360.gif)   
+![](https://media.githubusercontent.com/media/timi-liuliang/echo-download/master/images/intro/shadereditor.png)   
 
 ## 开源项目 - Echo
 https://github.com/timi-liuliang/echo   
