@@ -69,8 +69,7 @@
 13.精通基于recast寻路系统 Navigation mesh, navigation volume, Navigation Point    
 14.熟练使用Qt进行编辑器开发，了解mfc wxwidget nana electron winform 等界面库的使用   
 15.熟悉 grid, quadtree,octree, bvh场景管理算法
-16.熟悉UE4编辑器开发相关知识。
-17.了解程序化内容生成的相关知识，参于开发实现了 基于Houdini与Ue4的程序化内容生成管线。  
+16.了解程序化内容生成的相关知识，参于开发实现了基于Houdini与Ue4的程序化内容生成管线。  
 
 ## 程序化内容生成 (腾讯内网可见)
 https://km.woa.com/group/29321/articles/show/448927
